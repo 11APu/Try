@@ -1,2 +1,3 @@
 # Try
-it is a try project
+这是一个试验
+初次使用请多关照
